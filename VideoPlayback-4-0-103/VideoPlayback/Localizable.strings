@@ -1,0 +1,6 @@
+"INIT_LICENSE_ERROR_NO_NETWORK_TRANSIENT" = "Unable to contact server. Please try again later.";
+"INIT_LICENSE_ERROR_NO_NETWORK_PERMANENT" = "No network available. Please make sure you are connected to the Internet.";
+"INIT_LICENSE_ERROR_INVALID_KEY" = "Invalid Key used. Please make sure you are using a valid Vuforia App Key.";
+"INIT_LICENSE_ERROR_CANCELED_KEY" = "This app license key has been canceled and may no longer be used. Please get a new license key.";
+"INIT_LICENSE_ERROR_MISSING_KEY" = "Vuforia App key is missing. Please get a valid key, by logging into your account at developer.vuforia.com and creating a new project.";
+"INIT_default" = "Initialization error";
